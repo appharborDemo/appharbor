@@ -1,0 +1,1407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"Auth",
+				"Auth-id	Auth-id"
+			],
+			[
+				"late",
+				"latestUser"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"Co",
+				"Controller"
+			],
+			[
+				"Au",
+				"Auth-user	Auth-user"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"but",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"p",
+				"partials/"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"button",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"man",
+				"manga"
+			],
+			[
+				"m",
+				"manga"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"que",
+				"queryString"
+			],
+			[
+				"team",
+				"team_id"
+			],
+			[
+				"findBy",
+				"findById"
+			],
+			[
+				"crea",
+				"created_by"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"is_e",
+				"is_editor"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"chap",
+				"chapterRepository"
+			],
+			[
+				"Cha",
+				"ChapterRepository"
+			],
+			[
+				"manga",
+				"manga_id"
+			],
+			[
+				"Manga",
+				"MangaRepository"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pre",
+				"present"
+			],
+			[
+				"cha",
+				"chapterRepository"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"M",
+				"Microsoft"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"str",
+				"_strIDDevice"
+			],
+			[
+				"get",
+				"getDecimal"
+			],
+			[
+				"u",
+				"uAccu"
+			],
+			[
+				"pa",
+				"pageBuf"
+			],
+			[
+				"de",
+				"deviation"
+			],
+			[
+				"TIME",
+				"TIMER_AWAKE"
+			],
+			[
+				"ena",
+				"enableWDT4s"
+			],
+			[
+				"cout",
+				"countOnByMainCard"
+			],
+			[
+				"star",
+				"start1Day"
+			],
+			[
+				"ke",
+				"keyFlag"
+			],
+			[
+				"sta",
+				"start1Day"
+			],
+			[
+				"start",
+				"start1Day"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"sle",
+				"sleepCondition"
+			],
+			[
+				"po",
+				"powerOn"
+			],
+			[
+				"FLA",
+				"FLAG_SUB"
+			],
+			[
+				"slee",
+				"sleepEvent"
+			],
+			[
+				"sleep",
+				"sleepCondition"
+			],
+			[
+				"key",
+				"keyFlag"
+			],
+			[
+				"mai",
+				"mainFlag"
+			],
+			[
+				"defe",
+				"define"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"pow",
+				"powerFlag"
+			],
+			[
+				"rc",
+				"rc522Off"
+			],
+			[
+				"_l",
+				"_listNFCAmount"
+			],
+			[
+				"su",
+				"superStr"
+			],
+			[
+				"_",
+				"_iType"
+			],
+			[
+				"_li",
+				"_listNFC"
+			],
+			[
+				"tStr",
+				"tStrID"
+			],
+			[
+				"_lis",
+				"_listNFC"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"save",
+				"saveNFC"
+			],
+			[
+				"W",
+				"write"
+			],
+			[
+				"las",
+				"lastDeleteByte"
+			],
+			[
+				"K",
+				"K"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"to",
+				"toInt"
+			],
+			[
+				"timer",
+				"timer2"
+			],
+			[
+				"TImer2",
+				"TIMER2_DEFAULT"
+			],
+			[
+				"time",
+				"timer1"
+			],
+			[
+				"TI",
+				"TIMER_15S"
+			],
+			[
+				"data",
+				"dataCommand"
+			],
+			[
+				"mfrc522",
+				"MFRC522"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"Save",
+				"saveNFC"
+			],
+			[
+				"card",
+				"cardAddress"
+			],
+			[
+				"nfcC",
+				"_nfcCard"
+			],
+			[
+				"F",
+				"F"
+			],
+			[
+				"Se",
+				"Serial"
+			],
+			[
+				"diga",
+				"digitalWrite	Arduino digitalWrite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/messenger/partials/leftsidebar.blade.php",
+			"settings":
+			{
+				"buffer_size": 2636,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/messenger/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layout/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 2317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/register.blade.php",
+			"settings":
+			{
+				"buffer_size": 1894,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/classes/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 2229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/MessagesController.php",
+			"settings":
+			{
+				"buffer_size": 6311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/messenger/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/messenger/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 1800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/css/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 122585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/assets/js/chats.js",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/vRemind",
+		"/C/xampp/htdocs/vRemind/app",
+		"/C/xampp/htdocs/vRemind/app/Http",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/Auth",
+		"/C/xampp/htdocs/vRemind/database/migrations",
+		"/C/xampp/htdocs/vRemind/resources",
+		"/C/xampp/htdocs/vRemind/resources/assets",
+		"/C/xampp/htdocs/vRemind/resources/assets/css",
+		"/C/xampp/htdocs/vRemind/resources/assets/js",
+		"/C/xampp/htdocs/vRemind/resources/assets/sass",
+		"/C/xampp/htdocs/vRemind/resources/views",
+		"/C/xampp/htdocs/vRemind/resources/views/auth",
+		"/C/xampp/htdocs/vRemind/resources/views/classes",
+		"/C/xampp/htdocs/vRemind/resources/views/classes/partials",
+		"/C/xampp/htdocs/vRemind/resources/views/layout",
+		"/C/xampp/htdocs/vRemind/resources/views/layout/partials",
+		"/C/xampp/htdocs/vRemind/resources/views/messenger",
+		"/C/xampp/htdocs/vRemind/resources/views/messenger/partials",
+		"/C/xampp/htdocs/vRemind/vendor",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr/Messenger",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr/Messenger/Models"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/vRemind/app/Chat.php",
+		"/C/xampp/htdocs/vRemind/app/ChatMessage.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/models/ChatMessage.php",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr/Messenger/Models/Thread.php",
+		"/C/xampp/htdocs/vRemind/resources/views/layout/partials/modals.blade.php",
+		"/C/xampp/htdocs/vRemind/vendor/symfony/http-foundation/Session/Session.php",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr/Messenger/Models/Participant.php",
+		"/C/xampp/htdocs/vRemind/vendor/cmgmyr/messenger/src/Cmgmyr/Messenger/Models/Message.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Kernel.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/views/chats.blade.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/controllers/ChatController.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/routes.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/js/chats.js",
+		"/C/xampp/htdocs/vRemind/composer.json",
+		"/C/xampp/htdocs/vRemind/resources/views/classes/home.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/messenger/show.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/messenger/create.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/layout/partials/navbar.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/classes/partials/leftsidebar.blade.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/vRemind/resources/views/layout/default.blade.php",
+		"/C/xampp/htdocs/vRemind/config/messenger.php",
+		"/C/xampp/htdocs/vRemind/resources/views/messenger/index.blade.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/views/emails/auth/reminder.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/welcome.blade.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/views/hello.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/models/User.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/models/Chat.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/Chat.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/ChatMessage.php",
+		"/C/xampp/htdocs/vRemind/database/migrations/2015_11_08_012651_add_read_to_messages.php",
+		"/C/xampp/htdocs/vRemind/database/migrations/2015_11_08_004540_add_is_typing_to_participants.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/database/migrations/2014_10_18_183830_create_chats_table.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/database/migrations/2014_10_18_183949_create_chat_messages_table.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/vRemind/config/broadcasting.php",
+		"/C/xampp/htdocs/vRemind/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/vRemind/config/app.php",
+		"/C/xampp/htdocs/vRemind/app/User.php",
+		"/C/xampp/htdocs/vRemind/app/Role.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/controllers/BaseController.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/chats/app/controllers/HomeController.php",
+		"/C/Users/nvthai/AppData/Local/Temp/Rar$DIa0.781/routes.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/MessagesController.html",
+		"/C/xampp/htdocs/vRemind/app/Providers/ComposerServiceProvider.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Auth/Access/HandlesAuthorization.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/D/Freelance/truyen.academyvn.com/config-DO/my.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/2-forum.academyvn.com.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/2-academyvn.com.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-crontab",
+		"/C/Users/nvthai/AppData/Local/Temp/2-crontab",
+		"/C/Users/nvthai/AppData/Local/Temp/1-academyvn.com.conf_old",
+		"/C/Users/nvthai/AppData/Local/Temp/2-academyvn.com.conf_old",
+		"/C/Users/nvthai/AppData/Local/Temp/1-academyvn.com.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-forum.academyvn.com.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/2-truyen.academyvn.com.conf",
+		"/C/xampp/htdocs/truyen.academyvn.com/public_html/academy/app/config/database.php",
+		"/C/Users/nvthai/AppData/Local/Temp/1-server.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/3-www.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/3-my.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-mysql-clients.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/3-nginx.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-block.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/2-www.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/php-fpm.d/www.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/nginx.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/2-nginx.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/conf.d/staticfiles.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/conf.d/default.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/conf.d/block.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/conf.d/referrer_spam.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/conf.d/php.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/blacklist.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/domains/forum.academyvn.com.conf",
+		"/D/Freelance/truyen.academyvn.com/config-DO/nginx/domains/truyen.academyvn.com.conf",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/DevArt/Users/User.php",
+		"/C/xampp/htdocs/vRemind/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/views/frontend/layouts/default.blade.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/DevArt/Users/ProfileRepository.php",
+		"/C/xampp/htdocs/vRemind/database/migrations/2015_10_16_232949_add_title_lastname_signature_country_to_users_table.php",
+		"/C/xampp/htdocs/vRemind/database/migrations/2015_10_16_233427_create_roles_table.php",
+		"/C/xampp/htdocs/vRemind/database/migrations/2015_10_16_233503_create_user_roles_table.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Contracts/Routing/ResponseFactory.php",
+		"/C/xampp/htdocs/vRemind/config/mail.php",
+		"/C/xampp/htdocs/vRemind/.env",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/C/xampp/htdocs/vRemind/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/vRemind/resources/views/home.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/assets/css/style.css",
+		"/C/xampp/htdocs/vRemind/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/auth/reset.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/assets/css/bootstrap.min.css",
+		"/C/xampp/htdocs/vRemind/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/auth/password.blade.php",
+		"/C/xampp/htdocs/vRemind/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/views/frontend/layouts/partials/navigation.blade.php",
+		"/C/xampp/htdocs/vRemind/resources/views/home1.blade.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/remind_clone/Remind-LadingPage.html",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/remind_clone/remind.com/index.html",
+		"/C/xampp/htdocs/vRemind/resources/views/dashboard/home.blade.php",
+		"/D/DATA/CTVP/2015-2016/QuanLyDuAnPhanMem/remind_clone/Remind.html",
+		"/C/xampp/htdocs/truyen.academyvn.com/.htaccess",
+		"/C/xampp/htdocs/vRemind/.htaccess",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/DevArt/Controllers/Frontend/VotesController.php",
+		"/C/xampp/htdocs/vRemind/config/database.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/vRemind/index.php",
+		"/C/Users/nvthai/AppData/Local/Temp/1-php.ini",
+		"/C/Users/nvthai/AppData/Local/Temp/2-server.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-20-mysqlnd.ini",
+		"/C/Users/nvthai/AppData/Local/Temp/2-mysql-clients.cnf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-database.php",
+		"/C/Users/nvthai/AppData/Local/Temp/3-truyen.academyvn.com.conf",
+		"/C/Users/nvthai/AppData/Local/Temp/1-scripts.conf",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/views/frontend/home/partials/statistics.blade.php",
+		"/C/Users/nvthai/AppData/Local/Temp/1-statistics.blade.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/DevArt/Teams/EditTeamCommandHandler.php",
+		"/C/xampp/htdocs/truyen.academyvn.com/academy/app/views/admin/mangas/partials/footer-scripts.blade.php",
+		"/C/Users/nvthai/AppData/Local/Temp/2-footer-scripts.blade.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\vRemind",
+			"C:\\xampp\\htdocs\\truyen.academyvn.com\\academy\\app",
+			"C:\\xampp\\htdocs\\wp_themes\\",
+			"C:\\xampp\\htdocs\\wp_themes\\wp-content\\themes\\buildpress",
+			"D:\\SetechViet\\Arduino\\STag",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text",
+			"thread",
+			"text",
+			"ChatMessage",
+			"akamaihd",
+			"adsds",
+			"window.adsds",
+			"The thread with ID",
+			"latestMessa",
+			"ChatController",
+			"fb",
+			"App",
+			"nvthai.tk",
+			"truyen",
+			"a",
+			"div",
+			"gliphicon",
+			"your password reset link",
+			"clear:both",
+			".btn",
+			"container-fluid",
+			".navbar",
+			".btn",
+			"share",
+			".btn:",
+			".btn:hover",
+			"open>a:hover",
+			"css",
+			"routecollection",
+			"academyvn.com",
+			"fileinput",
+			"manga-cover",
+			"thumbnail",
+			"team",
+			"queryString",
+			"team",
+			"id",
+			"user",
+			"form-control",
+			"Team",
+			"ajax",
+			"checkbox",
+			"team",
+			"hover",
+			"table",
+			"withPivot",
+			"chapter",
+			"Chapter",
+			"manga",
+			"latestChapters",
+			"manga_id",
+			"manga",
+			"chapter",
+			"manga",
+			"Manga",
+			"manga",
+			"Manga",
+			"manga",
+			"manga-container",
+			"__image",
+			"background-ima",
+			"background",
+			"mod_rewrite",
+			"footer-bottom",
+			"\"so-panel\"",
+			"'so-panel'",
+			"so-panel",
+			"\"so-panel\"",
+			"so-panel",
+			"panel-grid-cell",
+			"page-box__content",
+			".header",
+			"footer-bottom__left",
+			"sleepFlag",
+			"sleepCondition",
+			"start1Day",
+			"doSleepMode",
+			"key_active_check",
+			"nfcCurrent",
+			"NFC_Function",
+			"startSaveMode",
+			"addFlag",
+			"rc522On",
+			"sleepcondition",
+			"EEPROM.write",
+			"ACTIVATION_BYTES4",
+			"MAX_BYTE",
+			"MF_KEY_SIZE",
+			"nfcCurrent._data",
+			"readIDDevice",
+			"decryption",
+			"_strIDDevice",
+			"readIDDevice",
+			"checkSleepCondition",
+			"sleepCondition",
+			"start1Day",
+			"powerOn",
+			"doSleepMode",
+			" flag",
+			"flag",
+			"FLAG",
+			"flag",
+			"",
+			"0004783A52BC2B80",
+			"000000009B66114F",
+			"i",
+			"0004DA3A52BC2B80",
+			"0004F13952BC2B80",
+			"0000000025A32965",
+			"0000000025A32965",
+			"CSVN",
+			"dap an dung",
+			"noi dung cau hoi 10",
+			"noi dung cau hoi 10:: dap an dung",
+			"00000000E4AE35DD",
+			"000",
+			"00000000",
+			"0000000",
+			"000000",
+			"00000",
+			"0000",
+			"000",
+			"0004573D52BC2B80",
+			"0004573D52BC2B80",
+			"MAX_BYTE",
+			"00047E3B52BC2B80",
+			"0004BE7E72CF2080",
+			"0004573D52BC2B80"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/messenger/partials/leftsidebar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 84.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/messenger/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layout/default.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2317,
+								2317
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 625.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/auth/register.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/classes/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1881,
+								1881
+							],
+							[
+								1955,
+								1955
+							],
+							[
+								2129,
+								2129
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 17.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "app/Http/Controllers/MessagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4807,
+								4807
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2313.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/messenger/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/messenger/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1777,
+								1777
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 42.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "resources/assets/css/bootstrap.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119049,
+								119059
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9786.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2169,
+								2169
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "resources/assets/js/chats.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1651,
+								1651
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.STag":
+	{
+		"height": 141.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.test":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "vRemind.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
