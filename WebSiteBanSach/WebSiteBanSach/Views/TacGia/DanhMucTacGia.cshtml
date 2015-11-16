@@ -1,0 +1,35 @@
+﻿@using WebSiteBanSach.Models
+@model List<TacGia>
+@*Css cho trang chủ ở trong thư mục content*@
+<link href="~/Content/TrangChuCss.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "DanhMucTacGia";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+@*Ẩn div chủ đề và div nhà xuất bản bên dưới*@
+<style>
+    #divChuDeVaNXB {
+        display: none;
+    }
+</style>
+<div style="clear:both"></div>
+<div id="SanPham" style="width:100%">
+    @*Hiển thị danh mục nhà xuất bản*@
+    <div style="float:none;width:70%;">
+        @foreach (var item in Model)
+        {
+
+            <div class="itemTacGia"><a href="@Url.Action("SachTheoTacGia", new { @MaTacGia=item.MaTacGia })"><h3 id="TieuDeTacGia"> @item.TenTacGia</h3></a></div>
+
+            <br />
+
+        }
+    </div>
+    }
+</div>
+<div style="clear:both"></div>
+<style>
+    .itemTacGia {
+        font-weight: normal;
+    }
+</style>

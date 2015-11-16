@@ -1,0 +1,236 @@
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Owin.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.pdb
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+c:\users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+C:\Users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+C:\Users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+C:\Users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+C:\Users\windows\documents\visual studio 2013\Projects\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Owin.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.pdb
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\windows\Documents\GitHub\websitebansach\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Owin.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.pdb
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+E:\TranNgocThao\Web\WebSiteBanSach(3)\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Owin.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\PagedList.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\WebGrease.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\PagedList.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\PagedList.Mvc.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Helpers.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Mvc.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Optimization.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.Razor.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\System.Web.WebPages.Razor.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Antlr3.Runtime.pdb
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\EntityFramework.SqlServer.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Google.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+D:\ctt\web\Nhom18_1212374_1212393_1212397\Source\WebsiteDong\WebSiteBanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb

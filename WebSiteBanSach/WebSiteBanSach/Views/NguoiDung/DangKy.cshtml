@@ -1,0 +1,71 @@
+﻿@model WebSiteBanSach.Models.KhachHang
+
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<h2>
+    Đăng ký
+</h2>
+<h1>@ViewBag.ThongBao</h1>
+<div style="padding-left:100px;">
+    @using (Html.BeginForm())
+    {
+        @*@Html.AntiForgeryToken()*@
+        
+        <div class="form-horizontal">
+            <h4>Đăng ký</h4>
+            <hr />
+            @Html.ValidationSummary(false)
+            
+            
+            
+  
+        <span>Họ tên :</span>
+        <br />
+        <input name="txtHoTen" type="text" />
+        <br />
+        <span>Ngày sinh :</span>
+        <br />
+        <input name="txtNgaySinh" type="date" />
+        <br />
+        <span>Giới tính :</span>
+        <br />
+        <input name="txtGioiTinh" type="text" />
+        <br />
+        <span>Điện thoại :</span>
+        <br />
+        <input name="txtDienThoai" type="text" />
+        <br />
+        
+        <span>Tài khoản :</span>
+        <br />
+        @Html.TextBox("txtTaiKhoan");
+        <br />
+        <span>Mật khẩu:</span>
+        <br />
+        <input name="txtMatKhau1" type="password" />
+        <br />
+        <span>Nhập lại mật khẩu:</span>
+        <br />
+        <input name="txtMatKhau2" type="password" />
+        <br />
+        
+        <span>Email :</span>
+        <br />
+        <input name="txtEmail" type="text" />
+        <br />
+        <span>Địa chỉ :</span>
+        <br />
+        <input name="txtDiaChi" type="text" />
+        <br />
+        
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input id="btnSubmit" type="submit" value="Đăng ký" class="btn btn-group-vertical" />
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
