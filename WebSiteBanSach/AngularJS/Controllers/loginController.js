@@ -1,7 +1,7 @@
 ﻿
 myApp.controller("loginController", function ($scope, $location, DataSharing, SinhVienService, $http, $timeout) {
 
-    $scope.url = 'http://localhost:17146/';
+    $scope.url = 'http://www.webserver.somee.com/';
     $scope.goSignup = function () {
         $location.path('/signup');
     }

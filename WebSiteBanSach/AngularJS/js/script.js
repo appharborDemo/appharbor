@@ -37,7 +37,7 @@ myApp.factory("SinhVienService", function ($http, DataSharing) {
 
         var request = $http({
             method: "post",
-            url: "http://localhost:17146/api/Account/Register/",
+            url: "http://www.webserver.somee.com/api/Account/Register/",
             data: _data
         });
         return request;
@@ -45,7 +45,7 @@ myApp.factory("SinhVienService", function ($http, DataSharing) {
     this.logout = function () {
         var request = $http({
             method: "post",
-            url: "http://localhost:17146/api/Account/Logout/",
+            url: "http://www.webserver.somee.com/api/Account/Logout/",
             headers: { 'Authorization': 'Bearer ' + DataSharing.infoToken.access_token },
         });
         return request;
@@ -59,7 +59,7 @@ myApp.controller('HomeController', function($scope, $http) {
     //alert('fdfaf');
     $http({
         method: 'GET',
-        url: 'http://localhost:17146/api/home/all'
+        url: 'http://www.webserver.somee.com/api/home/all'
     })
     .success(function(data, status){
         $scope.products = data;
