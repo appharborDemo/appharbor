@@ -6,6 +6,7 @@ myApp.config(function ($routeProvider) {
         when('/home', { templateUrl: 'Views/Home/Index.html', controller: 'HomeController' }).
         when('/login', { templateUrl: 'Views/User/login.html', controller: 'loginController' }).
         when('/signup', { templateUrl: 'Views/User/signup.html', controller: 'loginController' }).
+        when('/detailProduct', { templateUrl: 'Views/Product/Detail.html', controller: 'detailProductController' }).
     //    when('/detail', { templateUrl: 'Views/detail.html', controller: 'DetailController' }).
     //    when('/add', { templateUrl: 'Views/add.html', controller: 'AddController' }).
     //otherwise({ redirectTo: '/index' });

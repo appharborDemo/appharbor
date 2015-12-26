@@ -39,5 +39,20 @@ namespace WebService.Controllers
                 return Ok(ret);
             }
         }
+
+        [HttpGet]
+        [Route("api/home/detail")]
+        public HttpResponseMessage detail([FromUri] string mssv)
+        {
+            using (QuanLyBanSachEntities ctx = new QuanLyBanSachEntities())
+            {
+                var sach = ctx.Saches.Where(sv => sv.MaSach == Int32.Parse(mssv)).FirstOrDefault();
+                if (sach == null)
+                {
+                    return CreateResponse(HttpStatusCode.BadRequest);
+                }
+                return CreateResponse(HttpStatusCode.OK, sach);
+            }
+        }
     }
 }
