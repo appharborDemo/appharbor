@@ -130,6 +130,6 @@ E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\Microsoft.Owin.Security.
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\Microsoft.Owin.Security.Twitter.xml
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\System.Web.Http.Owin.xml
-E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.dll
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.pdb
+E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache

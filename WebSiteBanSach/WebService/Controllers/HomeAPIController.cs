@@ -42,16 +42,18 @@ namespace WebService.Controllers
 
         [HttpGet]
         [Route("api/home/detail")]
-        public HttpResponseMessage detail([FromUri] string mssv)
+        public HttpResponseMessage detail([FromUri] int MaSach)
         {
             using (QuanLyBanSachEntities ctx = new QuanLyBanSachEntities())
             {
-                var sach = ctx.Saches.Where(sv => sv.MaSach == Int32.Parse(mssv)).FirstOrDefault();
+                var sach = ctx.Saches.Where(sv => sv.MaSach == MaSach).FirstOrDefault();
                 if (sach == null)
                 {
                     return CreateResponse(HttpStatusCode.BadRequest);
                 }
-                return CreateResponse(HttpStatusCode.OK, sach);
+                Mapper.CreateMap<Sach, SachModel>();
+                var ret = Mapper.Map<Sach, SachModel>(sach);
+                return CreateResponse(HttpStatusCode.OK, ret);
             }
         }
     }
