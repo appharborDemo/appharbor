@@ -14,9 +14,9 @@
 
                         <div class="col-md-3 col-sm-6" ng-repeat="product in products">
                             <div class="book">
-                                <a href="#/detailProduct">
+                                <a href="#/detailProduct/{{product.MaSach}}">
                                     <div class="book-cover">
-                                        <img ng-click="detailProduct()" width="140" height="212" alt="" ng-src="../../HinhAnhSP/{{product.AnhBia}}">
+                                        <img width="140" height="212" alt="" ng-src="../../HinhAnhSP/{{product.AnhBia}}">
                                     </div>
                                 </a>
                                 <div class="book-details clearfix">

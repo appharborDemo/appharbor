@@ -1,19 +1,57 @@
-﻿<!--<div id="HinhAnh">
-    <img src="@Url.Content(" ~ />HinhAnhSP/"+Model.AnhBia)" />
-</div>
-    @*Thông tin*@
-<div id="ThongTin">
-    <div id="TenSach">@Model.TenSach</div>
-    <div id="ChuDe">Chủ đề: @ViewBag.TenChuDe</div>
-    <div id="NhaXuatBan">Nhà xuất bản: @ViewBag.NhaXuatBan</div>
-    <div id="Mota">Nội dung tóm tắt:<br />- @Model.MoTa <br /></div>
-    @*Dịch dấu chấm động đơn giá sử dụng string.Format("{0:0,0}", tham số)*@
-    <div id="Gia"><span style="color: green; font-weight: normal;">Đơn giá:</span><br /><span id="Gia"> @string.Format("{0:0,0}", @Model.GiaBan) VNĐ</span></div>
-    <br />
-    @using (Html.BeginForm("ThemGioHang", "GioHang", new { @iMaSach = Model.MaSach, @strURL = Request.Url.ToString() }))
-    {
-    <input type="submit" style="cursor:pointer" value="Mua hàng &#xf07a;" id="btnGioHang" class="btn btn-primary">
-    }
-</div>-->
+﻿<!--<div><p>{{detailproduct.MaSach}}</p></div>-->
+<!-- ============================================== BOOK DETAIL ============================================== -->
+<div class="single-book primary-block">
+    <div class="row">
+        <div class="col-md-5 col-sm-5">
+            <div class="book-cover">
+                <img width="268" height="408" alt="" ng-src="../../HinhAnhSP/{{detailproduct.AnhBia}}">
+            </div><!-- /.book-cover -->
+            <!--<div class="list-unstyled link-block inner-top-50">
+                <a href="#customer-reviews" class='customer-review'><i class="icon fa fa-comment"></i><span class="customer-review">Bình Luận(7) &darr; </span></a>
+            </div>-->
+        </div>
+        <div class="col-md-7 col-sm-7">
+            <div class="featured-book-heading">
+                <h1>{{detailproduct.TenSach}}</h1>
+                <!--<p class="single-book-author">
+                    by
+                    <a href="#">Mèo Mốc</a>
+                </p>-->
+                <div class="single-book-price">{{detailproduct.GiaBan}} VND</div>
+            </div>
 
-<div><p>{{detailproduct.MaSach}}</p></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="add-cart-button btn-group">
+                    <button class="btn btn-success btn-uppercase" type="button"><i class="fa fa-cart-plus fa-lg"></i></button>
+                    <button class="btn btn-success btn-uppercase" type="button">Thêm vào giỏ hàng</button>
+                </div>
+            </div>
+            <!--<div class="col-md-1">
+                <div class="add-cart-button btn-group">
+                    <button class="btn btn-danger btn-uppercase" type="button"><i class="fa fa-heart fa-lg"></i></button>
+                </div>
+            </div>-->
+            <div class=" col-md-5 share-button">
+
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_native_toolbox inner-top-vs"></div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- ============================================== BOOK DESCRIPTION ============================================== -->
+            <div class="description">
+                <p>{{detailproduct.MoTa}}</p>
+            </div>
+        </div>
+        <!-- ============================================== BOOK DESRIPTION : END ============================================== -->
+
+    </div>
+    
+</div>
+
+
+<!-- ============================================== BOOK DETAIL : END ============================================== --> 

@@ -6,7 +6,7 @@ myApp.config(function ($routeProvider) {
         when('/home', { templateUrl: 'Views/Home/Index.html', controller: 'HomeController' }).
         when('/login', { templateUrl: 'Views/User/login.html', controller: 'loginController' }).
         when('/signup', { templateUrl: 'Views/User/signup.html', controller: 'loginController' }).
-        when('/detailProduct', { templateUrl: 'Views/Product/Detail.html', controller: 'detailProductController' }).
+        when('/detailProduct/:MaSach', { templateUrl: 'Views/Product/Detail.html', controller: 'detailProductController' }).
     //    when('/detail', { templateUrl: 'Views/detail.html', controller: 'DetailController' }).
     //    when('/add', { templateUrl: 'Views/add.html', controller: 'AddController' }).
     //otherwise({ redirectTo: '/index' });
@@ -68,6 +68,24 @@ myApp.controller('HomeController', function($scope, $http) {
     .error(function(data, status){
         alert(status);
     });
+
+    $scope.detailProduct = function (MaSach) {
+        alert("sript");
+        $http({
+            method: 'GET',
+            url: 'http://localhost:17146/api/home/detail?MaSach=' + MaSach
+
+        })
+                .success(function (data, status) {
+
+                    $scope.detailproduct = data;
+                    alert(status);
+                })
+                .error(function (data, status) {
+                    alert(status);
+                    $scope.detailproduct = null;
+                });
+    };
 
 });
 
