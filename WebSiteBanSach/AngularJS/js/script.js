@@ -106,4 +106,21 @@ myApp.controller('NhaXuatBanController', function ($scope, $http) {
 }
 );
 
+myApp.controller('TacGiaController', function ($scope, $http) {
+    $http({
+        method: 'GET',
+        url: 'http://localhost:17146/api/home/alltacgia'
+
+    })
+            .success(function (data, status) {
+
+                $scope.tacgias = data;
+            })
+            .error(function (data, status) {
+                alert(status);
+            });
+
+}
+);
+
 //myApp.controller('HomeController', HomeController);

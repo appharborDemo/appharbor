@@ -209,7 +209,27 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Tác Giả</a></li>
+                                        <li class="dropdown yamm-fw" ng-controller="TacGiaController">
+                                            <a href="#/" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Tác giả</a>
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <div class="yamm-content">
+                                                        <div class="row">
+                                                            <div class="col-md-2 col-sm-6" ng-repeat="tacgia in tacgias">
+                                                                <div class="section">
+                                                                    <h5 class="title"></h5>
+                                                                    <ul class="links list-unstyled">
+                                                                        <li><a href="#">{{tacgia.TenTacGia}}</a></li>
+
+                                                                    </ul>
+                                                                </div><!-- /.section -->
+                                                            </div><!-- /.col -->
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li class="active"><a href="#">Sách Giảm Giá</a></li>
                                         <li class="dropdown yamm-fw">
                                             <a href="#" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Sách Bán Chạy</a>

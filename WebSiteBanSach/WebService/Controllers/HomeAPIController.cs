@@ -82,5 +82,18 @@ namespace WebService.Controllers
                 return Ok(ret);
             }
         }
+
+        [HttpGet]
+        [Route("api/home/alltacgia")]
+        public IHttpActionResult GetAllTacGia()
+        {
+            using (QuanLyBanSachEntities ctx = new QuanLyBanSachEntities())
+            {
+                List<TacGia> list = ctx.TacGias.ToList();
+                Mapper.CreateMap<TacGia, TacGiaModel>();
+                List<TacGiaModel> ret = Mapper.Map<List<TacGia>, List<TacGiaModel>>(list);
+                return Ok(ret);
+            }
+        }
     }
 }
