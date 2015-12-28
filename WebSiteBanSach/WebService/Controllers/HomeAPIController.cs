@@ -56,5 +56,18 @@ namespace WebService.Controllers
                 return CreateResponse(HttpStatusCode.OK, ret);
             }
         }
+
+        [HttpGet]
+        [Route("api/home/allchude")]
+        public IHttpActionResult GetAllChuDe()
+        {
+            using (QuanLyBanSachEntities ctx = new QuanLyBanSachEntities())
+            {
+                List<ChuDe> list = ctx.ChuDes.ToList();
+                Mapper.CreateMap<ChuDe, ChuDeModel>();
+                List<ChuDeModel> ret = Mapper.Map<List<ChuDe>, List<ChuDeModel>>(list);
+                return Ok(ret);
+            }
+        }
     }
 }

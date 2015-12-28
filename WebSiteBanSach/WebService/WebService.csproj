@@ -196,6 +196,7 @@
     <Compile Include="Models\ChuDe.cs">
       <DependentUpon>qlbs.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\ChuDeModel.cs" />
     <Compile Include="Models\ddddd.cs">
       <DependentUpon>qlbs.tt</DependentUpon>
     </Compile>

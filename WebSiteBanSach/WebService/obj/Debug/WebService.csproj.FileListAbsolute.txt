@@ -132,4 +132,3 @@ E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\Microsoft.Owin.Security.
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\bin\System.Web.Http.Owin.xml
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.dll
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.pdb
-E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
