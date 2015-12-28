@@ -69,5 +69,18 @@ namespace WebService.Controllers
                 return Ok(ret);
             }
         }
+
+        [HttpGet]
+        [Route("api/home/allnhaxuatban")]
+        public IHttpActionResult GetAllNhaXuatBan()
+        {
+            using (QuanLyBanSachEntities ctx = new QuanLyBanSachEntities())
+            {
+                List<NhaXuatBan> list = ctx.NhaXuatBans.ToList();
+                Mapper.CreateMap<NhaXuatBan, NhaXuatBanModel>();
+                List<NhaXuatBanModel> ret = Mapper.Map<List<NhaXuatBan>, List<NhaXuatBanModel>>(list);
+                return Ok(ret);
+            }
+        }
     }
 }

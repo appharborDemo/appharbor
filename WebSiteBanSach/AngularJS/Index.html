@@ -165,9 +165,9 @@
                                         <span class="icon-bar"></span>
                                     </button>
                                 </div><!-- /.navbar-header -->
-                                <div class="collapse navbar-collapse" id="navbar-primary-collapse" ng-controller="ChuDeController">
+                                <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                                     <ul class="nav navbar-nav">
-                                        <li class="dropdown yamm-fw">
+                                        <li class="dropdown yamm-fw" ng-controller="ChuDeController">
                                             <a href="#/" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Chủ đề</a>
                                             <ul class="dropdown-menu">
                                                 <li>
@@ -188,7 +188,27 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="hidden-sm hidden-md"><a href="#">Nhà Phát Hành</a></li>
+                                        <li class="dropdown yamm-fw" ng-controller="NhaXuatBanController">
+                                            <a href="#/" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Nhà xuất bản</a>
+                                            <ul class="dropdown-menu">
+                                                <li>
+                                                    <div class="yamm-content">
+                                                        <div class="row">
+                                                            <div class="col-md-2 col-sm-6" ng-repeat="nhaxuatban in nhaxuatbans">
+                                                                <div class="section">
+                                                                    <h5 class="title"></h5>
+                                                                    <ul class="links list-unstyled">
+                                                                        <li><a href="#">{{nhaxuatban.TenNXB}}</a></li>
+
+                                                                    </ul>
+                                                                </div><!-- /.section -->
+                                                            </div><!-- /.col -->
+
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li><a href="#">Tác Giả</a></li>
                                         <li class="active"><a href="#">Sách Giảm Giá</a></li>
                                         <li class="dropdown yamm-fw">

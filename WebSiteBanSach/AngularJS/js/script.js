@@ -89,4 +89,21 @@ myApp.controller('ChuDeController', function ($scope, $http) {
 }
 );
 
+myApp.controller('NhaXuatBanController', function ($scope, $http) {
+    $http({
+        method: 'GET',
+        url: 'http://localhost:17146/api/home/allnhaxuatban'
+
+    })
+            .success(function (data, status) {
+
+                $scope.nhaxuatbans = data;
+            })
+            .error(function (data, status) {
+                alert(status);
+            });
+
+}
+);
+
 //myApp.controller('HomeController', HomeController);
