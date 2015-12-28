@@ -54,7 +54,7 @@ myApp.factory("SinhVienService", function ($http, DataSharing) {
     return this;
 });
 
-myApp.controller('HomeController', function($scope, $http) {
+myApp.controller('HomeController', function ($scope, $http) {
     $scope.currentPage = 1;
     $scope.pageSize = 9;
     //alert('fdfaf');
@@ -62,31 +62,31 @@ myApp.controller('HomeController', function($scope, $http) {
         method: 'GET',
         url: 'http://localhost:17146/api/home/all'
     })
-    .success(function(data, status){
+    .success(function (data, status) {
         $scope.products = data;
     })
-    .error(function(data, status){
+    .error(function (data, status) {
         alert(status);
     });
 
-    $scope.detailProduct = function (MaSach) {
-        alert("sript");
-        $http({
-            method: 'GET',
-            url: 'http://localhost:17146/api/home/detail?MaSach=' + MaSach
+}
+);
 
-        })
-                .success(function (data, status) {
+myApp.controller('ChuDeController', function ($scope, $http) {
+    $http({
+        method: 'GET',
+        url: 'http://localhost:17146/api/home/allchude'
 
-                    $scope.detailproduct = data;
-                    alert(status);
-                })
-                .error(function (data, status) {
-                    alert(status);
-                    $scope.detailproduct = null;
-                });
-    };
+    })
+            .success(function (data, status) {
 
-});
+                $scope.chudes = data;
+            })
+            .error(function (data, status) {
+                alert(status);
+            });
+
+}
+);
 
 //myApp.controller('HomeController', HomeController);
