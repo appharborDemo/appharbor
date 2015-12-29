@@ -1,5 +1,5 @@
 ﻿
-var myApp = angular.module('myApp', ['ngRoute']);
+var myApp = angular.module('myApp', ['ngRoute', 'angularUtils.directives.dirPagination']);
 myApp.config(function ($routeProvider) {
     $routeProvider.
         when('/', { templateUrl: 'Views/Home/Index.html', controller: 'HomeController' }).
@@ -123,4 +123,58 @@ myApp.controller('TacGiaController', function ($scope, $http) {
 }
 );
 
+//myApp.factory('Service', ['$http',
+//    function ($http) {
+//        var service = {};
+
+//        service.GetUsers = function (pagingInfo) {
+//            return $http.get('/api/users', { params: pagingInfo });
+//        };
+
+//        return service;
+//    }]);
+//myApp.controller('Users.HomeController',
+//    ['$scope', 'Service',
+//    function ($scope, Service) {
+//        $scope.pagingInfo = {
+//            page: 1,
+//            itemsPerPage: 30,
+//            //sortBy: 'FirstName',
+//            //reverse: false,
+//            //search: '',
+//            totalItems: 0
+//        };
+
+//        $scope.search = function () {
+//            $scope.pagingInfo.page = 1;
+//            loadUsers();
+//        };
+
+//        $scope.sort = function (sortBy) {
+//            if (sortBy === $scope.pagingInfo.sortBy) {
+//                $scope.pagingInfo.reverse = !$scope.pagingInfo.reverse;
+//            } else {
+//                $scope.pagingInfo.sortBy = sortBy;
+//                $scope.pagingInfo.reverse = false;
+//            }
+//            $scope.pagingInfo.page = 1;
+//            loadUsers();
+//        };
+
+//        $scope.selectPage = function (page) {
+//            $scope.pagingInfo.page = page;
+//            loadUsers();
+//        };
+
+//        function loadUsers() {
+//            $scope.users = null;
+//            Service.GetUsers($scope.pagingInfo).success(function (data) {
+//                $scope.users = data.data;
+//                $scope.pagingInfo.totalItems = data.count;
+//            });
+//        }
+
+//        // initial table load
+//        loadUsers();
+//    }]);
 //myApp.controller('HomeController', HomeController);

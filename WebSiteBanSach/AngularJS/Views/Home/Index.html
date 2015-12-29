@@ -12,7 +12,7 @@
                 <div class="row books full-width">
                     <div class="clearfix text-center">
 
-                        <div class="col-md-3 col-sm-6" ng-repeat="product in products">
+                        <div class="col-md-3 col-sm-6" dir-paginate="product in products|itemsPerPage:10">
                             <div class="book">
                                 <a href="#/detailProduct/{{product.MaSach}}">
                                     <div class="book-cover">
@@ -35,7 +35,10 @@
                                 </div>
                             </div>
                         </div>
-
+                        <dir-pagination-controls max-size="15"
+                                                 direction-links="true"
+                                                 boundary-links="true">
+                        </dir-pagination-controls>
 
 
 
@@ -49,3 +52,4 @@
     </div>
     <!-- ============================================== BEST SELLER : END ============================================== -->	
 </div>
+
