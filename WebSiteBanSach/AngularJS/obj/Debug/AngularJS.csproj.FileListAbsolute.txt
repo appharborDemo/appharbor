@@ -9,3 +9,9 @@ E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\AngularJS\bin\AngularJS.pdb
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.dll
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.pdb
 E:\TranNgocThao\CCNM\DACK\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.csprojResolveAssemblyReference.cache
+D:\appharbor\WebSiteBanSach\AngularJS\bin\AngularJS.dll.config
+D:\appharbor\WebSiteBanSach\AngularJS\bin\AngularJS.dll
+D:\appharbor\WebSiteBanSach\AngularJS\bin\AngularJS.pdb
+D:\appharbor\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.csprojResolveAssemblyReference.cache
+D:\appharbor\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.dll
+D:\appharbor\WebSiteBanSach\AngularJS\obj\Debug\AngularJS.pdb
