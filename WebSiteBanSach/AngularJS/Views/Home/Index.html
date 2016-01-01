@@ -6,13 +6,14 @@
 
             <div class="module-heading home-page-module-heading">
                 <h2 class="module-title home-page-module-title"><span>Sách Bán Chạy</span></h2>
+                
             </div><!-- /.module-heading -->
 
             <div class="module-body">
                 <div class="row books full-width">
                     <div class="clearfix text-center">
 
-                        <div class="col-md-3 col-sm-6" dir-paginate="product in products|itemsPerPage:10">
+                        <div class="col-md-3 col-sm-6" dir-paginate="product in products|filter:search|itemsPerPage:10">
                             <div class="book">
                                 <a href="#/detailProduct/{{product.MaSach}}">
                                     <div class="book-cover">
@@ -22,7 +23,7 @@
                                 <div class="book-details clearfix">
                                     <div class="book-description">
                                         <h3 class="book-title"><a href="book-detail.html">{{product.TenSach}}</a></h3>
-                                        <a class="book-subtitle" href="book-detail.html"> Gregory Berns </a>
+                                        <!--<a class="book-subtitle" href="book-detail.html"> Gregory Berns </a>-->
                                     </div>
                                     <div class="text-center">
                                         <div>
