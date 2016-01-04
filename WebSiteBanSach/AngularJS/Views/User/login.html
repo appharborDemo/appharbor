@@ -16,6 +16,8 @@
                 <a href="#" class="pull-right need-help">Need help? </a><span class="clearfix"></span>
                 <button class="btn btn-success" ng-click="goSignup()">Create an account(if haven't) </button>
             </form>
+			<fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+            </fb:login-button>
 
 
         </div>
