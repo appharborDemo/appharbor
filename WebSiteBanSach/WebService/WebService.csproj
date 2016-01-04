@@ -249,6 +249,10 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\aspnet-WebService-20151224085330.mdf" />
+    <Content Include="App_Data\aspnet-WebService-20151224085330_log.ldf">
+      <DependentUpon>aspnet-WebService-20151224085330.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\QuanLyBanSach.mdf" />
     <Content Include="App_Data\QuanLyBanSach_log.ldf">
       <DependentUpon>QuanLyBanSach.mdf</DependentUpon>
